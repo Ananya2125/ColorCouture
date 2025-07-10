@@ -1,4 +1,4 @@
-###ColorCouture- Smart Outfit Reccommendation System
+#ColorCouture- Smart Outfit Reccommendation System
 
 ---
 
