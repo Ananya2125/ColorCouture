@@ -55,7 +55,7 @@ Skin_Tone_Compatibility.
 
 Clone the repository:
 
-git clone https://github.com/Ananya2125/Final_year_project.git
+git clone https://github.com/Ananya2125/ColorCouture.git
 
 Navigate to the project folder:
 
