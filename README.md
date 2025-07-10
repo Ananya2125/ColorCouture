@@ -21,9 +21,13 @@ Provides fashion insights such as trend alignment and skin tone compatibility.
 ## Technologies Used
 
 Python
+
 Flask (for REST API)
+
 Pandas and NumPy (for data processing)
+
 Scikit-learn (for machine learning)
+
 Flask-CORS (to enable frontend requests)
 
 ---
