@@ -1,14 +1,14 @@
-#ColorCouture- Smart Outfit Reccommendation System
+# ColorCouture- Smart Outfit Reccommendation System
 
 ---
 
-##Project Description
+## Project Description
 
 This project is a Fashion Color Recommendation System that suggests suitable topwear colors based on the selected bottomwear color. Using a dataset of color combinations and fashion attributes, the system leverages machine learning (K-Nearest Neighbors) to provide recommendations considering color harmony and fashion trends.
 
 ---
 
-##Features
+## Features
 
 Accepts bottomwear color as hex code input.
 Converts color input to RGB format for analysis.
@@ -18,7 +18,7 @@ Provides fashion insights such as trend alignment and skin tone compatibility.
 
 ---
 
-##Technologies Used
+## Technologies Used
 
 Python
 Flask (for REST API)
@@ -28,7 +28,7 @@ Flask-CORS (to enable frontend requests)
 
 ---
 
-##Dataset Description
+## Dataset Description
 
 The dataset used contains the following columns:
 
@@ -47,7 +47,7 @@ Skin_Tone_Compatibility
 
 ---
 
-##How to Run
+## How to Run
 
 Clone the repository:
 
@@ -67,13 +67,13 @@ to get topwear color recommendations.
 
 ---
 
-##Example Request
+## Example Request
 
 curl -X POST http://localhost:8000/recommend -H "Content-Type: application/json" -d '{"color": "#FF5733"}'
 
 ---
 
-##Future Enhancements
+## Future Enhancements
 
 Add a frontend interface for easier user interaction.
 Expand the dataset with more fashion attributes and more combinations.
